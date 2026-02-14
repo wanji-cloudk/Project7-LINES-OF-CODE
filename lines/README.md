@@ -1,7 +1,8 @@
 This is a solid script for a command-line utility that count functional lines in Python files.
 
-## To run test on line.py,and to ensure that the application functions as intended execute the following command:
+## To run test on line.py,execute
 ```bash
+cd lines
 lines.py
 
 ## Run your program with python lines.py. Your program should exit with sys.exit and provide an error message:
