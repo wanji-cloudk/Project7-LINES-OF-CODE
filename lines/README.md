@@ -16,6 +16,11 @@ Not a Python file
 
 ##Run your program with python lines.py non_existent_file.py. Assuming non_existent_file.py doesn’t exist, your program should exit with sys.exit and provide an error message:
 File does not exist
+```
+### App Output
+
+![Screenshot](https://github.com/wanji-cloudk/Project7-LINES-OF-CODE/blob/a356a7a7e91086253433f6199d1787d617012d8c/Screenshot%202026-02-25%20143422.png)
+
 
 #### Run Locally
 clone the project
